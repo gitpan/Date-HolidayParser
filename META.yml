@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Date-HolidayParser
-version:            0.4
+version:            0.41
 abstract:           Parser for .holiday-files
 author:
     - Eskild Hustvedt <zerodogg@cpan.org>
